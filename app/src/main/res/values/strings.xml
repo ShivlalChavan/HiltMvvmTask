@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">YourPayTask</string>
+    <string name="home">Beranda</string>
+    <string name="time">Riwayat</string>
+    <string name="location">Mitra</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="title">yourPay</string>
+    <string name="username">Saldo Yourpay</string>
+    <string name="price_txt">Rp</string>
+    <string name="dummy_price">5.20.000</string>
+    <string name="yourpoint">"Yourpoint: "</string>
+    <string name="zero">0</string>
+    <string name="isri">Isi Saldo</string>
+    <string name="tarik_tunai">Tarik Tunai</string>
+    <string name="dummy_name">Lihat Kurs Saat ini</string>
+    <string name="transfer">Transfer</string>
+    <string name="alpha_group">Alpha group</string>
+    <string name="pulsa">Pulsa</string>
+    <string name="pln">PLN</string>
+</resources>

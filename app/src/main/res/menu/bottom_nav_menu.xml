@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/nav_HomeFragment"
+        android:icon="@drawable/ic"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/nav_TimeFragment"
+        android:icon="@drawable/timer"
+        android:title="@string/time" />
+
+    <item
+        android:id="@+id/nav_LocationFragment"
+        android:icon="@drawable/location_on"
+        android:title="@string/location" />
+
+    <item
+        android:id="@+id/nav_ChatFragment"
+        android:icon="@drawable/bubble"
+        android:title="@string/chat" />
+
+    <item
+        android:id="@+id/nav_ProfileFragment"
+        android:icon="@drawable/male"
+        android:title="@string/profile" />
+
+</menu>
